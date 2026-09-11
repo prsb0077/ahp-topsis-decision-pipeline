@@ -3,7 +3,7 @@ Automated Python implementation of AHP and TOPSIS multi-criteria decision-making
 
 --------
 Overview:
-This tool automates multi-attribute alternative evaluaion and ranking through a two-stage analytical pipeline:
+This tool automates multi-attribute alternative evaluation and ranking through a two-stage analytical pipeline:
 1. AHP Weight Derivation: Computes criteria weights from pairwise comparison matrices using the Geometric Mean method.
 2. Consistency Verification: Validates input judgments via Saaty's Consistency Index (CI) and Consistency Ratio (CR < 0.10) before proceeding.
 3. TOPSIS Ranking Engine: Feeds validated weights into a normalized decision matrix, calculates separation distances from Positive and Negative Ideal Solutions (PIS/ NIS), and outputs final relative closeness scores.
