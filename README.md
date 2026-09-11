@@ -19,8 +19,8 @@ Key Features:
 --------
 
 Tech Stack:
-Language:** Python 3.x
-Libraries:** NumPy, Math
+Language: Python 3.x
+Libraries:NumPy, Math
 
 --------
 
